@@ -17,7 +17,7 @@
         <h2
             class="text-white text-2xl sm:text-4xl md:text-5xl font-extrabold leading-relaxed tracking-wide drop-shadow-lg"
         >
-            Selamat Datang di FazzDrink
+            Selamat Datang di FazzDrink :
             <br />
             <span
                 class="text-sm sm:text-lg md:text-xl font-medium text-gray-200 drop-shadow-md italic"
